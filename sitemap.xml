@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://anlife.github.io/categories/index.html</loc>
+    
+    <lastmod>2017-05-16T14:07:34.144Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://anlife.github.io/2017/05/07/hello-world/</loc>
     
-    <lastmod>2017-05-07T08:16:50.187Z</lastmod>
+    <lastmod>2017-05-16T14:07:03.775Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://anlife.github.io/about/index.html</loc>
+    
+    <lastmod>2017-05-16T14:06:25.824Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://anlife.github.io/tags/index.html</loc>
+    
+    <lastmod>2017-05-16T14:04:32.913Z</lastmod>
     
   </url>
   
@@ -12,27 +33,6 @@
     <loc>https://anlife.github.io/404.html</loc>
     
     <lastmod>2017-04-21T09:45:08.434Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://anlife.github.io/tags/index.html</loc>
-    
-    <lastmod>2017-04-21T09:37:03.323Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://anlife.github.io/categories/index.html</loc>
-    
-    <lastmod>2017-04-21T09:36:49.343Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://anlife.github.io/about/index.html</loc>
-    
-    <lastmod>2017-04-21T09:36:28.929Z</lastmod>
     
   </url>
   
