@@ -4,9 +4,9 @@
   <subtitle>没有良心的知识，会毁灭人的灵魂。—— 布拉莱</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.ensoul.club/"/>
+  <link href="/"/>
   <updated>2017-05-17T14:49:46.756Z</updated>
-  <id>http://www.ensoul.club/</id>
+  <id>/</id>
   
   <author>
     <name>Adrian</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>过于喧嚣的孤独</title>
-    <link href="http://www.ensoul.club/2017/05/17/%E8%BF%87%E4%BA%8E%E5%96%A7%E5%9A%A3%E7%9A%84%E5%AD%A4%E7%8B%AC/"/>
-    <id>http://www.ensoul.club/2017/05/17/过于喧嚣的孤独/</id>
+    <link href="/2017/05/17/%E8%BF%87%E4%BA%8E%E5%96%A7%E5%9A%A3%E7%9A%84%E5%AD%A4%E7%8B%AC/"/>
+    <id>/2017/05/17/过于喧嚣的孤独/</id>
     <published>2017-05-17T13:00:00.000Z</published>
     <updated>2017-05-17T14:49:46.756Z</updated>
     
@@ -52,12 +52,12 @@
     
     </summary>
     
-      <category term="读书笔记" scheme="http://www.ensoul.club/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+      <category term="读书笔记" scheme="/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="孤独" scheme="http://www.ensoul.club/tags/%E5%AD%A4%E7%8B%AC/"/>
+      <category term="孤独" scheme="/tags/%E5%AD%A4%E7%8B%AC/"/>
     
-      <category term="书摘" scheme="http://www.ensoul.club/tags/%E4%B9%A6%E6%91%98/"/>
+      <category term="书摘" scheme="/tags/%E4%B9%A6%E6%91%98/"/>
     
   </entry>
   
