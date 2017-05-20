@@ -4,9 +4,9 @@
   <subtitle>没有良心的知识，会毁灭人的灵魂。—— 布拉莱</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="/"/>
+  <link href="http://www.ensoul.club/"/>
   <updated>2017-05-20T07:49:15.644Z</updated>
-  <id>/</id>
+  <id>http://www.ensoul.club/</id>
   
   <author>
     <name>Adrian</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>怕</title>
-    <link href="/2017/05/20/%E6%80%95/"/>
-    <id>/2017/05/20/怕/</id>
+    <link href="http://www.ensoul.club/2017/05/20/%E6%80%95/"/>
+    <id>http://www.ensoul.club/2017/05/20/怕/</id>
     <published>2017-05-20T14:30:00.000Z</published>
     <updated>2017-05-20T07:49:15.644Z</updated>
     
@@ -34,17 +34,17 @@
     
     </summary>
     
-      <category term="平行空间" scheme="/categories/%E5%B9%B3%E8%A1%8C%E7%A9%BA%E9%97%B4/"/>
+      <category term="平行空间" scheme="http://www.ensoul.club/categories/%E5%B9%B3%E8%A1%8C%E7%A9%BA%E9%97%B4/"/>
     
     
-      <category term="平行空间" scheme="/tags/%E5%B9%B3%E8%A1%8C%E7%A9%BA%E9%97%B4/"/>
+      <category term="平行空间" scheme="http://www.ensoul.club/tags/%E5%B9%B3%E8%A1%8C%E7%A9%BA%E9%97%B4/"/>
     
   </entry>
   
   <entry>
     <title>尽头</title>
-    <link href="/2017/05/19/%E5%B0%BD%E5%A4%B4/"/>
-    <id>/2017/05/19/尽头/</id>
+    <link href="http://www.ensoul.club/2017/05/19/%E5%B0%BD%E5%A4%B4/"/>
+    <id>http://www.ensoul.club/2017/05/19/尽头/</id>
     <published>2017-05-19T15:30:00.000Z</published>
     <updated>2017-05-20T07:49:01.392Z</updated>
     
@@ -59,17 +59,17 @@
     
     </summary>
     
-      <category term="平行空间" scheme="/categories/%E5%B9%B3%E8%A1%8C%E7%A9%BA%E9%97%B4/"/>
+      <category term="平行空间" scheme="http://www.ensoul.club/categories/%E5%B9%B3%E8%A1%8C%E7%A9%BA%E9%97%B4/"/>
     
     
-      <category term="平行空间" scheme="/tags/%E5%B9%B3%E8%A1%8C%E7%A9%BA%E9%97%B4/"/>
+      <category term="平行空间" scheme="http://www.ensoul.club/tags/%E5%B9%B3%E8%A1%8C%E7%A9%BA%E9%97%B4/"/>
     
   </entry>
   
   <entry>
     <title>回忆一</title>
-    <link href="/2017/05/18/%E5%9B%9E%E5%BF%86%E4%B8%80/"/>
-    <id>/2017/05/18/回忆一/</id>
+    <link href="http://www.ensoul.club/2017/05/18/%E5%9B%9E%E5%BF%86%E4%B8%80/"/>
+    <id>http://www.ensoul.club/2017/05/18/回忆一/</id>
     <published>2017-05-18T05:30:00.000Z</published>
     <updated>2017-05-20T07:40:41.535Z</updated>
     
@@ -97,17 +97,17 @@
     
     </summary>
     
-      <category term="CHEN" scheme="/categories/CHEN/"/>
+      <category term="CHEN" scheme="http://www.ensoul.club/categories/CHEN/"/>
     
     
-      <category term="随笔" scheme="/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://www.ensoul.club/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title>过于喧嚣的孤独</title>
-    <link href="/2017/05/17/%E8%BF%87%E4%BA%8E%E5%96%A7%E5%9A%A3%E7%9A%84%E5%AD%A4%E7%8B%AC/"/>
-    <id>/2017/05/17/过于喧嚣的孤独/</id>
+    <link href="http://www.ensoul.club/2017/05/17/%E8%BF%87%E4%BA%8E%E5%96%A7%E5%9A%A3%E7%9A%84%E5%AD%A4%E7%8B%AC/"/>
+    <id>http://www.ensoul.club/2017/05/17/过于喧嚣的孤独/</id>
     <published>2017-05-17T13:00:00.000Z</published>
     <updated>2017-05-20T07:40:22.917Z</updated>
     
@@ -146,12 +146,12 @@
     
     </summary>
     
-      <category term="读书笔记" scheme="/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+      <category term="读书笔记" scheme="http://www.ensoul.club/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="孤独" scheme="/tags/%E5%AD%A4%E7%8B%AC/"/>
+      <category term="孤独" scheme="http://www.ensoul.club/tags/%E5%AD%A4%E7%8B%AC/"/>
     
-      <category term="书摘" scheme="/tags/%E4%B9%A6%E6%91%98/"/>
+      <category term="书摘" scheme="http://www.ensoul.club/tags/%E4%B9%A6%E6%91%98/"/>
     
   </entry>
   
